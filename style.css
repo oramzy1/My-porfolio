@@ -411,6 +411,11 @@ footer ul{
         width: 100%;
     }
     .professional{
+        width: 90%;
+    }
+}
+@media (max-width: 389px){
+    .skills{
         width: 95%;
     }
 }
